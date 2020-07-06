@@ -40,8 +40,8 @@ var APP_DATA = {
         {
           "yaw": -1.7395615958997332,
           "pitch": 0.024212210520415667,
-          "title": "Druskin Lounge",
-          "text": "What event is held here every winter?"
+          "title": "Fireside Lounge",
+          "text": "Virtual Coffeehouse events will take place on the following dates: ..."
         }
       ]
     },
